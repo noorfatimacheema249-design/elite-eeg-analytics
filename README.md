@@ -31,4 +31,4 @@ The platform addresses browser-level data latency and data privacy restrictions 
 All algorithmic operations utilize validated mathematical models running on an open-source MNE wrapper layer. The tool serves as an interactive clinical informatics proof-of-concept for automated neurophysiological monitoring systems and institutional portfolio review during the 2027 Residency Match cycle.
 
 ##  Open-Source Licensing
-This project is deployed under the **MIT License**—permitting free open-source reuse while enforcing standard institutional liability protection.
+This project is deployed under the **MIT License** permitting free open-source reuse while enforcing standard institutional liability protection.
